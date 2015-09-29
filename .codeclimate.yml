@@ -1,0 +1,6 @@
+engines:
+  rubocop-blake:
+    enabled: true
+ratings:
+  paths:
+  - "**.rb"
